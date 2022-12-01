@@ -1,0 +1,551 @@
+@charset "utf-8";
+/* CSS Document */
+
+ul {
+	list-style: none;
+}
+
+li a{
+	text-decoration-line: none; 
+	text-decoration-color: black; 
+	display: inline;  
+	width: 100px; 
+	white-space: nowrap; 
+	padding: 0 40px 0 40px; 
+	color: black;
+}
+
+.btn_Getstarted_white_ver1 {
+	padding: 15px 20px 15px 20px;
+	border-radius: 0;
+	background-color: white;
+	border: 1px solid #000;
+	cursor: pointer;
+	} 
+.btn_Getstarted_white_ver1:hover{
+	border-color:#F21E8C; 
+	color: #F21E8C;
+	
+}
+
+.login_h1{
+	font-size: 16px; padding: 0 20px
+}
+
+i{
+	font-size: 0.5rem
+}
+
+
+/*landing*/
+.landing_div{
+	font-size:10pt
+}
+
+.landing_p1 {
+	font-size: 36pt; 
+	font-weight: 350;
+}
+
+.landing_p2 {
+	font-size: 32pt; 
+	line-height:1.3; 
+	font-weight: 600;
+}
+
+.btn_Getstarted_black_ver1 {
+	padding: 15px 20px 15px 20px; 
+	border: 0; 
+	border-radius: 00 / 00;
+	color: white; 
+	background-color: black; 
+	font-weight: 700;
+	font-size: 12pt;
+	cursor: pointer;
+}
+
+.btn_Getstarted_black_ver1:hover{
+	background: #2CB3E8;
+}
+
+.btn_landing_contact{
+	color: black; font-weight: 300;
+}
+
+.btn_landing_fintecheffect{
+	border: 0; 
+	background-color: white; 
+	color:#999999; 
+	font-size: 12pt;
+	cursor: pointer;
+}
+
+
+.btn_landing_fintecheffect:hover{
+	color: #2CB3E8;
+	text-decoration: underline;
+	
+}
+
+.btn_landing_contact:hover{
+	color:#F21E8C;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+
+.landing_p3{
+	font-weight: 600;
+}
+
+.landing_p4{
+	font-weight: 300;
+}
+
+/* who work with*/
+.work_with_title{
+	font-size: 10pt;
+	letter-spacing: 5px
+}
+
+.work_with_p1{
+	line-height: 2;
+}
+
+.btn_Ourproducts_black{
+	padding: 15px 20px 15px 20px;
+	color: white;
+	background-color: #000;
+	border: 1px solid white;
+	font-size: 12pt;
+	font-weight: 700;
+}
+
+.btn_Ourproducts_black:hover{
+	border-color: #F21E8C;
+	color: #F21E8C;
+	cursor: pointer;
+}
+
+
+/*Fordevelopers*/
+.fordevelopers_p1{
+	font-weight: 600;
+	font-size: 18pt;
+}
+
+.fordevelopers_p2{
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 12pt
+}
+
+.btn_APIdocumentation{
+	font-weight: 500;
+	border: 0;
+	background-color: white;
+	padding: 0 0 0 0;
+	font-size: 12pt;
+}
+
+.btn_APIdocumentation:hover{
+	color: #2CB3E8;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+/*Beautiful user experience*/
+.userexperience_p1{
+	font-weight: 600;
+	font-size: 18pt;
+}
+
+.userexperience_p2{
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 12pt;
+}
+
+.btn_plaidlink{
+	font-weight: 500;
+	border: 0;
+	background-color: white;
+	padding: 0 0 0 0;
+	font-size: 12pt;
+}
+
+.btn_plaidlink:hover{
+	color: #2CB3E8;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+/*Build the future of financial services*/
+.financialservices_p1{
+	font-size: 24pt;
+	font-weight: 700;
+	line-height: 1.5
+}
+
+
+/*personal finances*/
+.personalfinances_p1{
+	font-size: 18pt;
+	font-weight: 600;
+}
+
+.personalfinances_p2{
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 12pt;
+}
+
+.btn_learnmore_personalfinances{
+	font-weight: 500;
+	border: 0;
+	background-color: white;
+	padding: 0 0 0 0;
+	font-size: 12pt;
+}
+
+.btn_learnmore_personalfinances:hover{
+	color: #2CB3E8;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+
+/*Consumer payments*/
+.consumerpayments_p1{
+	font-size: 18pt;
+	font-weight: 600;
+}
+
+.consumerpayments_p2{
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 12pt;
+}
+
+.btn_learnmore_consumerpayments{
+	font-weight: 500;
+	border: 0;
+	background-color: white;
+	padding: 0 0 0 0;
+	font-size: 12pt;
+}
+
+.btn_learnmore_consumerpayments:hover{
+	color: #2CB3E8;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+/*Lending*/
+.lending_p1{
+	font-size: 18pt;
+	font-weight: 600;
+}
+
+.lending_p2{
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 12pt;
+}
+
+.btn_learnmore_lending{
+	font-weight: 500;
+	border: 0;
+	background-color: white;
+	padding: 0 0 0 0;
+	font-size: 12pt;
+}
+
+.btn_learnmore_lending:hover{
+	color: #2CB3E8;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+
+/*Banking*/
+.Banking_p1{
+	font-size: 18pt;
+	font-weight: 600;
+}
+
+.Banking_p2{
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 12pt;
+}
+
+.btn_learnmore_banking{
+	font-weight: 500;
+	border: 0;
+	padding: 0 0 0 0;
+	background-color: white;
+	font-size: 12pt;
+}
+
+.btn_learnmore_banking:hover{
+	color: #2CB3E8;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+
+/*Wealth*/
+.Wealth_p1{
+	font-size: 18pt;
+	font-weight: 600;
+}
+
+.Wealth_p2{
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 12pt;
+}
+
+.btn_learnmore_wealth{
+	font-weight: 500;
+	border: 0;
+	padding: 0 0 0 0;
+	background-color: white;
+	font-size: 12pt;
+}
+
+.btn_learnmore_wealth:hover{
+	color: #2CB3E8;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+/*Business finances*/
+.businessfinances_p1{
+	font-size: 18pt;
+	font-weight: 600;
+}
+
+.businessfinances_p2{
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 12pt;
+}
+
+.btn_learnmore_businessfinances{
+	font-weight: 500;
+	border: 0;
+	padding: 0 0 0 0;
+	background-color: white;
+	font-size: 12pt;
+}
+
+.btn_learnmore_businessfinances:hover{
+	color: #2CB3E8;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+/*for consumers*/
+.forconsumer_p1{
+	font-weight: 300;
+	font-size: 10pt;
+	letter-spacing: 5px;
+}
+.forconsumer_p2{
+	font-size: 24pt;
+	font-weight: 700;
+	line-height: 1.5
+}
+
+
+
+/*Connect in seconds*/
+
+.Connect_p1{
+	font-size: 18pt;
+	font-weight: 600;
+}
+
+.Connect_p2{
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 12pt;
+}
+
+.btn_learnmore_connectinseconds{
+	font-weight: 500;
+	border: 0;
+	padding: 0 0 0 0;
+	background-color: white;
+	font-size: 12pt;
+}
+
+.btn_learnmore_connectinseconds:hover{
+	color: #2CB3E8;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+/*Manage Connections*/
+
+.Manage_p1{
+	font-size: 18pt;
+	font-weight: 600;
+}
+
+.Manage_p2{
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 12pt;
+}
+
+.btn_learnmore_manageconnection{
+	font-weight: 500;
+	border: 0;
+	padding: 0 0 0 0;
+	background-color: white;
+	font-size: 12pt;
+}
+
+
+.btn_learnmore_manageconnection:hover{
+	color: #2CB3E8;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+
+/*Designed for security*/
+
+.Designed_p1{
+	font-size: 18pt;
+	font-weight: 600;
+}
+
+.Designed_p2{
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 12pt;
+}
+
+.btn_learnmore_designedforsecurity{
+	font-weight: 500;
+	border: 0;
+	padding: 0 0 0 0;
+	background-color: white;
+	font-size: 12pt;
+}
+
+.btn_learnmore_designedforsecurity:hover{
+	color: #2CB3E8;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+
+
+/*For financial Institution*/
+.institutions_p1{
+	font-weight: 300;
+	font-size: 10pt;
+	letter-spacing: 5px;
+}
+.institutions_p2{
+	font-size: 24pt;
+	font-weight: 700;
+	line-height: 1.5
+}
+
+
+
+/*Transform your business*/
+
+.Digital_p1{
+	font-size: 18pt;
+	font-weight: 600;
+}
+
+.Digital_p2{
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 12pt;
+}
+
+.btn_learnmore_connecttothedigital{
+	font-weight: 500;
+	border: 0;
+	padding: 0 0 0 0;
+	background-color: white;
+	font-size: 12pt;
+}
+
+.btn_learnmore_connecttothedigital:hover{
+	color: #2CB3E8;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+
+/*Bottom*/
+.bottom_p1{
+	font-size: 24pt;
+	font-weight: 600;
+	line-height: 1.5;
+}
+
+.btn_bottom_getstarted{
+	padding: 15px 20px 15px 20px;
+	background-color: #fff;
+	border: 1px solid white;
+	font-size: 12pt;
+	font-weight: 700;
+	color: #000;
+	text-align: left;
+}
+
+.btn_bottom_Contactsales{
+	padding: 15px 20px 15px 20px;
+	color: white;
+	background-color: #000;
+	border: 1px solid white;
+	font-size: 12pt;
+	font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*@media screen and (max-width: 1024px){.media {width: 80%}} /*https://tadaktadak-it.tistory.com/72 */
